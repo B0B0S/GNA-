@@ -1,0 +1,263 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.music{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+
+body{
+    
+    background-repeat: no-repeat;
+    background-color: #425F57;
+    font-family: 'Grape Nuts', cursive;
+    
+}
+
+hr{
+  margin: auto;
+  border-color: #749F82;
+  border-style: none ;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.infotable{
+    color: #c4f8b2;
+    margin: auto;
+    width: 600px;
+    border: 3px solid #749F82;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: #749F82;
+
+}
+
+.pics{
+  text-align: center;
+}  
+
+.introduction{
+  text-align: auto;
+}
+
+.table2{
+  
+  margin: auto;
+  margin-top: 60px;
+  color: #c4f8b2;
+  text-align: center;
+  margin-bottom: 7%;
+}
+
+.skills{
+  font-size: 40px;
+  color: #CFFF8D;
+  
+}
+
+.we{
+  font-size: 40px;
+  color: #CFFF8D;
+}
+
+.wep{
+font-size: 25px;
+
+}
+
+
+
+
+.icons{
+  text-align: left;
+  display: block;
+  margin-left: 1%;
+}
+
+
+.crc{
+  color:#64635e;
+}
+
+.contact{
+  color: #A8E890;
+  margin-left: 20px;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.header{
+  color: #CFFF8D;
+}
+
+.secondbg{
+  background-color: #749F82;
+}
+
+.personalinfo{
+  color: #CFFF8D;
+}
+
+/*
+h2.skills{
+    font-size: 70px;
+    text-align: center;
+    color: #E9DAC1;
+    padding-right: 50px;
+}
+
+div.list{
+    font-size: 30px;
+    text-align: center;
+    color: #F7ECDE;
+    
+}
+
+
+.workexpheader{
+    text-align: center;
+    color: #E9DAC1;
+    margin-left: auto;
+    font-size: 50px;
+
+}
+.workexppara{
+    text-align: center;
+    color: #F7ECDE;
+    margin-left: auto;
+    font-size: 30px;
+}
+
+
+.contactme{
+    text-decoration:none;
+    text-align: center;
+    display:block;
+    color: #E9DAC1;
+    font-size: 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    
+}
+
+.contactme:hover{
+  position: fixed;
+    margin: auto;
+    border: 3px solid #141515;
+    width: 20%;
+    border-radius: 20px;
+    background-color:rgb(63, 63, 63);
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    
+}
+
+
+
+.table2{
+  font-size: medium;
+  position: auto;
+  color: #F7ECDE;
+  margin: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 1000px;
+  border-radius: 60px;
+ 
+
+}
+*/
+
+
+
+/* 
+input[type=text], select {
+    width: 96%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 80%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
+
+  div {
+    position: center;
+    width: 40%;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    
+  }
+  
+
+  .contactme{
+    font-size: large;
+    text-decoration: none;
+    text-align: center;
+    color: #efc287;
+    display: block;
+    margin-top: 20px;
+    margin-left: 45%;
+    margin-right: 45%;
+  }
+  
+  .contactme:hover{
+    font-size: large;
+    text-decoration: none;
+    text-align: center;
+    color: #efc287;
+    display: block;
+    margin-top: 20px;
+    margin-left: 45%;
+    margin-right: 45%;
+    background-color: #3d3933;
+    border-radius: 10px;
+  }
+
+  /*div.background{
+    background-repeat: no-repeat;
+    background-image: url("/Udfsers/johnangelidis/Desktop/PERSONAL WEBSITE PROJECT /HTML - Personal Site main/images/Bobos_the_ruins_of_an_ancient_greek_temple_with_a_black_backgro_ab199cf0-0056-459d-b509-dbf1b1bc7d93.png ");
+}*/
+  
